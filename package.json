@@ -90,6 +90,7 @@
     "got": "9.6.0",
     "gscan": "3.5.4",
     "html-to-text": "5.1.1",
+    "http-server": "^0.12.3",
     "image-size": "0.8.3",
     "intl": "1.2.5",
     "intl-messageformat": "5.4.3",
